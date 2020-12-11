@@ -1,2 +1,2 @@
-#winconfig
+* winconfig
 
